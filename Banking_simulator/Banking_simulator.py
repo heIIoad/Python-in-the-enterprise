@@ -15,16 +15,6 @@
 #Make intelligent use of pythons syntactic sugar (overloading, iterators, generators, etc)
 #Most of all: CREATE GOOD, RELIABLE, READABLE CODE.
 #The goal of this task is for you to SHOW YOUR BEST python programming skills.
-#Impress everyone with your skills, show off with your code.
-#
-#Your program must be runnable with command "python task.py".
-#Show some usecases of your library in the code (print some things)
-#
-#When you are done upload this code to your github repository. 
-#
-#Delete these comments before commit!
-#Good luck.
-
 
 class Bank:
     def __init__(self, name, surname, age, city, address, funds):
